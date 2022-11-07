@@ -1,2 +1,2 @@
-print("Hello CodeShip world!")
+print("Hello world!")
 
